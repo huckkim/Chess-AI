@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1494336131 source:c:\users\tim\documents\github\chess_project\chess project\bitboards.cpp
+	"bitboards.h"
+
+1494362793 c:\users\tim\documents\github\chess_project\chess project\bitboards.h
+	"libraries.h"
+
+1493388064 c:\users\tim\documents\github\chess_project\chess project\libraries.h
+	<iostream>
+	<vector>
+
+1494362793 source:c:\users\tim\documents\github\chess_project\chess project\main.cpp
+	<iostream>
+	"bitboards.h"
+	"movegen.h"
+
+1493253685 D
+
+1494597047 source:c:\users\huckkim\documents\github\chess_project\chess project\main.cpp
+	<iostream>
+	"bitboards.h"
+	"movegen.h"
+
+1493648046 s/remotes/origin/master
+	<iostream>
+	"bitboards.h"
+	"movegen.h"
+	"libraries.h"
+	"bitboards.h"
+	"libraries.h"
+	"bitboards.h"
+
+1494597047 c:\users\huckkim\documents\github\chess_project\chess project\bitboards.h
+	"libraries.h"
+
+1494510825 c:\users\huckkim\documents\github\chess_project\chess project\libraries.h
+	<iostream>
+	<vector>
+
+1494511657 source:c:\users\huckkim\documents\github\chess_project\chess project\bitboards.cpp
+	"bitboards.h"
+
+1493253952 source:c:\users\matilda\documents\github\chess_project\chess project\bitboards.cpp
+	"bitboards.h"
+
+1493242253 c:\users\matilda\documents\github\chess_project\chess project\bitboards.h
+	"libraries.h"
+
+1493242253 c:\users\matilda\documents\github\chess_project\chess project\libraries.h
+	<iostream>
+	<vector>
+
+1493253685 source:c:\users\matilda\documents\github\chess_project\chess project\main.cpp
+	<iostream>
+	"bitboards.h"
+
+1494511084 source:c:\users\huckkim\documents\github\chess_project\chess project\movegen.cpp
+	"movegen.h"
+	"bitboards.h"
+
+1494597047 c:\users\huckkim\documents\github\chess_project\chess project\movegen.h
+	"libraries.h"
+	"bitboards.h"
+
+1494362793 c:\users\tim\documents\github\chess_project\chess project\movegen.h
+	"libraries.h"
+	"bitboards.h"
+
+1494362793 source:c:\users\tim\documents\github\chess_project\chess project\movegen.cpp
+	"movegen.h"
+	"bitboards.h"
+
